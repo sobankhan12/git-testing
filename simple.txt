@@ -1,1 +1,2 @@
 this is sample text editor file
+this is latest comment
