@@ -1,2 +1,5 @@
 This is second file of nodejs developement
+<<<<<<< HEAD
 this is latest changes to check Effect of Netflix 
+=======
+>>>>>>> e14ad528572f86874c310bcbab73e66b7ccf17f1
