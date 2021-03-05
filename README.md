@@ -62,4 +62,4 @@ ___
 ## Task List
 * [x] task1
 * [x] task2
-* [] task2
+* [ ] task2
